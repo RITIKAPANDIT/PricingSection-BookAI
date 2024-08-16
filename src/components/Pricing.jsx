@@ -89,7 +89,7 @@ const Pricing = () => {
                                             href="#"
                                             className={`inline-flex justify-center items-center text-center w-full h-10 sm:h-12 p-3 sm:p-5 mt-10 sm:mt-20 tracking-tight text-sm sm:text-lg lg:text-xl border border-transparent rounded transition duration-200 ${isDarkMode ? "text-black bg-[#8dacce] hover:bg-[#CCCCFF]" : "text-white bg-blue-600 hover:bg-blue-700"}`}
                                         >
-                                            Get Started
+                                            Get Subscription
                                         </a>
                                     </div>
                                 </div>
